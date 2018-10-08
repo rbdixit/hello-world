@@ -1,2 +1,3 @@
 # hello-world
 My first repository...
+Trying out git for the first time. Hope to use it more often. 
